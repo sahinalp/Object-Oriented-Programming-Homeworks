@@ -14,7 +14,7 @@ public class QuestionCreater {
     }
     void createNumbers()
     {
-        // Generate random number between 0 and 9
+        //Generate random number between 0 and 9
         firstNumber=secureRandom.nextInt(10);
         secondNumber=secureRandom.nextInt(10);
 
